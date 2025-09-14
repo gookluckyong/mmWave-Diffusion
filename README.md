@@ -1,5 +1,5 @@
 # mmWave-Diffusion
-Diffusion Framework for 1D Signals with Radar Diffusion Transforme (ICASSP 2026 Submission)
+Diffusion Framework for 1D Signals with Radar Diffusion Transformer (ICASSP 2026 Submission)
 Note
 This repository contains the core diffusion framework and the Radar Diffusion Transformer (RDT) model implementation from our ICASSP 2026 submission.
 The paper is currently under review.
