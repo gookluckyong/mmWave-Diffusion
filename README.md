@@ -1,9 +1,9 @@
 # mmWave-Diffusion
 
 > **Note**  
-> This repository contains the **core diffusion framework** and the **Radar Diffusion Transformer (RDT)** model implementation from our **ICASSP 2026 submission**.  
-> The paper is currently **under review**.  
-> This release is a **research preview** for academic exchange and reproducibility.  
+> This repository contains the core diffusion framework and the Radar Diffusion Transformer implementation from our ICASSP 2026 submission.  
+> The paper is currently under review.  
+> This release is a research preview for academic exchange and reproducibility.  
 
 
 ## 📂 Repository Structure
