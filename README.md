@@ -1,32 +1,10 @@
 # mmWave-Diffusion
-# Diffusion Framework for Radar Respiration Monitor with Radar Diffusion Transformer (ICASSP 2026 Submission)
 
 > **Note**  
 > This repository contains the **core diffusion framework** and the **Radar Diffusion Transformer (RDT)** model implementation from our **ICASSP 2026 submission**.  
 > The paper is currently **under review**.  
 > This release is a **research preview** for academic exchange and reproducibility.  
 
----
-
-## ✨ Features
-
-### Observation-Anchored Diffusion Process
-- Forward process injects residuals between clean and observed signals.  
-- Reverse process with closed-form posterior.  
-- Exponential η-schedule with power adjustment.  
-- Supports weighted MSE loss.
-
-### Spaced Diffusion (Fast Sampling)
-- Train with 1000 steps, sample with e.g. **20** steps.  
-- Automatic remapping between reduced and original timesteps.
-
-### Radar Diffusion Transformer (RDT)
-- Patch-based embedding of 1D signals.  
-- Self-attention + cross-attention with learnable gate.  
-- Local banded mask for cross-attention.  
-- AdaLN-Zero modulation for stable training.
-
----
 
 ## 📂 Repository Structure
 
